@@ -1,4 +1,11 @@
-Part 1:
+---
+layout: post
+title:  "Regular Expression"
+date:   2019-11-11 11:00:00
+categories: Assignment
+---
+
+##Part 1:
 #1
 \b[eat]+[senigry]+|eat\b
 \beat(s|en|ing|ery|er)?|ate\b
@@ -10,7 +17,7 @@ Part 1:
 [IiEeHh][isṣ]+[bfp]\w+n
 
 
-Part 2:
+##Part 2:
 #1
 ^\t(\w+), (\w+)$
 
